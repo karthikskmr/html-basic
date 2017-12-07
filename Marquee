@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<marquee direction="left">1.hello world</marquee>
+
+<marquee behavior=scroll>2.hello world</marquee>
+
+
+<marquee direction="right"; background-color=blue; behavior=slide >3.hello world</marquee>
+
+<marquee direction="left"; behavior=alternate>4.hello world</marquee>
+<marquee direction="left" behavior=alternate><img src="C:/Users/skmr/Desktop/Lighthouse.jpg"></marquee>
+
+
+
+</body>
+
+</html>
